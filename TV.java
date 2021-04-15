@@ -17,27 +17,27 @@ public class TV {
     }
 
     public void pressHomeButton() {
-
+        state.pressHomeButton();
     }
 
     public void pressNetflixButton() {
-
+        state.pressNetflixButton();
     }
 
     public void pressHuluButton() {
-
+        state.pressHuluButton();
     }
 
     public void pressMovieButton() {
-
+        state.pressMovieButton();
     }
 
     public void pressTVButton() {
-
+        state.pressTVButton();
     }
 
     public void setState(State state) {
-
+        this.state = state;
     }
 
     public State getHomeState() {
