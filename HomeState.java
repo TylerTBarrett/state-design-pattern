@@ -1,3 +1,9 @@
+/**
+ * 
+ * @author 2021 Tyler Barrett
+ * Object denoting the state HomeState
+ */
+
 public class HomeState implements State {
     private TV tv;
 

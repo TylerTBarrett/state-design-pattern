@@ -1,3 +1,9 @@
+/**
+ * 
+ * @author 2021 Tyler Barrett
+ * Class denoting the HuluState and the functionality for that state
+ */
+
 public class HuluState implements State {
     private TV tv;
     private static final String[] MOVIES = {"Girl", "Run", "WeWork: Or the Making and Breaking of a $47 Billion Unicorn", "Boss Level", "NomadLand"};

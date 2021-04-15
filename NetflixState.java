@@ -1,3 +1,9 @@
+/**
+ * 
+ * @author 2021 Tyler Barrett
+ * Object denoting the Netflix state and all the functionality with that state
+ */
+
 public class NetflixState implements State {
     private TV tv;
     private static final String[] MOVIES = {"Uppena", "Thunder Force", "Concrete Cowboy", "The Stand In", "Coded Bias"};
